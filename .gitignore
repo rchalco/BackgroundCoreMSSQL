@@ -18,3 +18,4 @@ NUnitBusinessMain/bin/*
 BackgroundAPIRest/bin/*
 *.log
 PlumbingProps/obj/*
+BackgroundAPIRest/obj/*
