@@ -4,7 +4,7 @@ using System.Runtime.Serialization;
 using System.Collections.Generic;
 
 namespace Domain.Main.Wraper
-{
+{ 
     #region Enumeradores
 
     [DataContract]
